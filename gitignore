@@ -1,0 +1,62 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyProject.toml related
+*.lock
+.poetry/
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+.env/
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.pytest_cache/
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
